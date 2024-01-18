@@ -16,4 +16,8 @@
     <SelfContained>true</SelfContained>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Cocona.Lite" Version="2.2.0" />
+  </ItemGroup>
+
 </Project>
